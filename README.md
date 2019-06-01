@@ -1,4 +1,4 @@
-# Linear Regression으로 고등학교 1학년 6월 수학 모의고사 등급컷 예측
+# Linear Regression으로 모의고사 등급컷 예측하기
 ![figure](./figure.png)
 
 - [파이썬으로 Linear Regression 해보기](http://woowabros.github.io/study/2018/08/01/linear_regression_qr.html)
